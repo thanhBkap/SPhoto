@@ -1,4 +1,4 @@
-## Welcome to SPhoto
+## Welcome to Photo Pea
 
 Nice to see you here!
 
@@ -6,7 +6,7 @@ Whenever you have trouble in the game, We will be ready to support you.
 
 ### Privacy Policy
 
-Devy built the SPhoto app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
+Devy built the Photo Pea app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
 
 ### Security
 
